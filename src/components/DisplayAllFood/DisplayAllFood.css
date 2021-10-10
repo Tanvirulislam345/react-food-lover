@@ -1,0 +1,12 @@
+.displayAllFood{
+    border: 2px solid springgreen;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px 20px gray;
+}
+.button{
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid springgreen;
+    border-radius: 3px;
+}
